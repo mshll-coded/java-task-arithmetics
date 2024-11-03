@@ -6,5 +6,9 @@ public class App {
         double amountUSD = 279.5;
         System.out.println(amountUSD + " USD = " + (amountUSD / 3.25) + " KWD");
 
+        double amountEUR = 260.61;
+        System.out.println(amountEUR + " EUR = " + (amountEUR * 0.33) + " KWD");
+
+
     }
 }
